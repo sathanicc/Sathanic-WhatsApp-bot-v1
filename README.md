@@ -4,6 +4,6 @@ Tʜɪsᴇ ʙᴏᴛ ʙᴀsᴇᴅ ᴏɴ ʟɪғᴇ ʙᴏᴛ
 
 <div align="center">    
    
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖘𝖆𝖙𝖍𝖆𝖓𝖎𝖈+𝖜𝖆𝖙𝖘𝖆𝖕𝖕+𝖇𝖔𝖙+𝖛1+𝖋𝖔𝖗𝖐+𝖍𝖊𝖗𝖊)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F05&lines=𝖘𝖆𝖙𝖍𝖆𝖓𝖎𝖈+𝖜𝖆𝖙𝖘𝖆𝖕𝖕+𝖇𝖔𝖙+𝖛1+𝖋𝖔𝖗𝖐+𝖍𝖊𝖗𝖊)](https://git.io/typing-svg)
 
 </p>
